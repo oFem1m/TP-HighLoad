@@ -253,3 +253,11 @@
   - **Глобальные системы управления трафиком (Global Traffic Manager, GTM)**: GTM управляет направлением трафика в зависимости от нагрузки на конкретные дата-центры. Если один ДЦ перегружен, запросы перенаправляются в другой.
   - **Механизмы синхронизации данных**: iCloud поддерживает синхронизацию данных между дата-центрами. При этом дублируются файлы, необходимые для обеспечения резервного копирования и защиты данных.
   - **Автоматическое переключение при сбоях**: В случае отказа одного ДЦ, механизм автоматически перенаправляет трафик на другой доступный центр, что минимизирует время простоя для пользователей.
+
+## Источники
+- https://worldmetrics.org/apple-icloud-statistics/
+- https://chargeasap.com/blogs/news/breakdown-of-iphone-users-by-country
+- https://support.apple.com/en-us/108047
+- https://www.statista.com/topics/1695/cloud-computing/
+- https://www.datacenterknowledge.com/servers/apple-data-center-and-servers-faq
+- https://www.datacenters.com/providers/apple-inc/data-center-locations
