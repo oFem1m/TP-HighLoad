@@ -403,7 +403,8 @@ SSL/TLS терминация требует значительных вычис�
 ## Физическая схема БД
 <!-- ![image](https://github.com/user-attachments/assets/57a5068c-6c2d-4e5a-83cb-ba60e1ae69d8) -->
 <!-- ![image](https://github.com/user-attachments/assets/39d194ec-c120-4e5f-af05-ab023de94ce9) -->
-![image](https://github.com/user-attachments/assets/0afeea8e-e689-433d-8c41-5404b1ad6ab0)
+<!-- ![image](https://github.com/user-attachments/assets/0afeea8e-e689-433d-8c41-5404b1ad6ab0) -->
+![image](https://github.com/user-attachments/assets/2d694284-eb88-49f2-aced-cb2b984e9bc4)
 
 ### 1. Индексы
 Индексы улучшают скорость запросов к таблицам за счет быстрого поиска по индексированным полям. В моей схеме:
